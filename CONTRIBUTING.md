@@ -1,12 +1,22 @@
 # Contributing
 
-We welcome contributions from the community! If you'd like to submit a new bacd actor or hacker,
-please make a pull request directly and we'll review it.
+We welcome contributions from the community! If you'd like to submit a new bad actor or hacker,
+Please make a pull request directly and we'll review it.
 
 If you'd like to suggest a change to the data or the way it's organized here, please create an issue
-first so we can discuss it.
+first, so we can discuss it.
 
 Please note we have a code of conduct. Follow it in all your interactions with the project.
+
+## How to create a table in markdown
+To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column. For compatibility, you should also add a pipe on either end of the row.
+
+```
+| Heading 1  | Heading 2 |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+```
 
 ## Pull Request Process
 
