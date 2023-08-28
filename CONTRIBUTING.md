@@ -20,9 +20,10 @@ To add a table, use three or more hyphens (---) to create each column’s header
 
 ## Pull Request Process
 
-1. Update the README.md with any bad actor details you want to add or update.
-2. Make sure the table is formatted properly, you can add a new heading if it does not exist and provide the needed data for your rows.
-3. Create the pull request and explain your changes, especially what transpired with the bad actor. We'll merge it in or reply as quickly as possible.
+1. Fork the Repo.
+2. Update the README.md with any bad actor details you want to add or update.
+3. Make sure the table is formatted properly, you can add a new heading if it does not exist and provide the needed data for your rows.
+4. Create the pull request and explain your changes, especially what transpired with the bad actor. We'll merge it in or reply as quickly as possible.
 
 # Code of Conduct
 
