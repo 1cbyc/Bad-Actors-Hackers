@@ -7,7 +7,7 @@ The goal of this repo is to provide a massive list of bad actors data for Africa
 |Name  | Email  | Phone  | NIN  | BVN  |Bank Info   | Passport |   |   |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | RAPHEAL OLUWATOBI ADEGBOYE |   |   |   |   |Opay: 8125911994;  FIRST BANK OF NIGERIA: 3099020977  |   |   |   |
-|   |   |   |   |   |   |   |   |   |
+|Olumuyiwa Oloruntoba   | levichom879@gmail.com, toluhopa@gmail.com,  | +2349161977253, +2349163275141, +2348101342359, +2349163774589, +234916282580,   |   |   | Wema: 7811527495  |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
