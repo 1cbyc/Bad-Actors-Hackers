@@ -1,6 +1,6 @@
 # Bad Actors & Hackers in Africa Tech Space
 We are crowdsourcing a list of Bad Actors and Hackers in Africa Tech Space. 
-The goal of this repo is to provide a massive list of back actor's data for African Tech Companies so that we can protect ourselves from hacks and losses. 
+The goal of this repo is to provide a massive list of bad actors data for African Tech Companies so that we can protect ourselves from hacks and losses. 
 
 # List of Bad Actors
 
