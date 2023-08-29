@@ -12,7 +12,7 @@ The goal of this repo is to provide a massive list of bad actors data for Africa
 | OJO STEPHEN IMORU  |   |   | 41695639772  | 22696925324  |   |   |   |   |
 | WINNER OLUWATOBI BOLUWADURO  |   |   | 99385789184  | 22732958172  |   |   |   |   |
 | WONDERFUL MICHAEL BOLUWADURO  |   |   |   | 22595365164  |   |   |   |   |
-|  AYOMIDE OLAOLUWA BOLUWADURO |  olaoluwaboluwaduro@gmail.com |  +2347083566116 |   |  22622334675 |   |   |   |   |
+|  AYOMIDE OLAOLUWA BOLUWADURO |  olaoluwaboluwaduro@gmail.com |  +2347083566116 |   |  22622334675 | Opay: 09019309478 |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |
